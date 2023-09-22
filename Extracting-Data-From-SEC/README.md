@@ -13,6 +13,8 @@ Change the directory to Collecting Daily Prices
 
         cd "Sentiment_Analysis/Extracting-Data-From-SEC"
 
+REPLACE "ENTER SEC API HERE" with your SEC API in extracted_formatting.py
+
 Execute
 
         python3 extracted_formatting.py
