@@ -1,12 +1,11 @@
 Clone the repository to your local machine
 
-  git clone https://github.com/HarisMahmood8/3150_Projects.git
-Change directory to classwork_week4
+        git clone https://github.com/HarisMahmood8/Sentiment_Analysis.git
+        
+Change the directory to Collecting Daily Prices
 
-  cd 3150_Projects/classwork_week4
-Compile
+        cd "Sentiment_Analysis/Collecting Daily Prices"
 
-  g++ -o output stackp1.cpp queuep1.cpp tests.cpp
-execute
+Execute
 
-  ./output
+        python3 Collecting_Daily_Prices.py
